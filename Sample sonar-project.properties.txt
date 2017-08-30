@@ -1,0 +1,10 @@
+# Required metadata
+sonar.projectKey=2277_LiveScan_Management_System
+sonar.projectName=2277_LiveScan_Management_System:master
+sonar.modules=Module1,Module2
+sonar.projectVersion=2.0
+#sonar.sources=.
+sonar.login=
+
+
+
